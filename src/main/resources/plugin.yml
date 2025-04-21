@@ -1,0 +1,6 @@
+name: jk_no_trade_with_villager
+version: '${project.version}'
+main: jiekie.NoTradeWithVillagerPlugin
+api-version: '1.20'
+authors: [Jiekie]
+description: 주민 거래 금지 플러그인
