@@ -5,7 +5,7 @@ import org.bukkit.entity.Player;
 
 public class ChatUtil {
     public static String getWarnPrefix() {
-        return "[ " + ChatColor.YELLOW + "❗" + ChatColor.WHITE + " ] ";
+        return "\uA003 ";
     }
 
     public static void canNotInteract(Player player) {
