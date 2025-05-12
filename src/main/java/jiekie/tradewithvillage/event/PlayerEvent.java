@@ -1,8 +1,8 @@
-package jiekie.event;
+package jiekie.tradewithvillage.event;
 
-import jiekie.NoTradeWithVillagerPlugin;
-import jiekie.util.ChatUtil;
-import jiekie.util.SoundUtil;
+import jiekie.tradewithvillage.NoTradeWithVillagerPlugin;
+import jiekie.tradewithvillage.util.ChatUtil;
+import jiekie.tradewithvillage.util.SoundUtil;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.EntityType;
 import org.bukkit.entity.Player;

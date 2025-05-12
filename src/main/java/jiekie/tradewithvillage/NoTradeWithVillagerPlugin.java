@@ -1,6 +1,6 @@
-package jiekie;
+package jiekie.tradewithvillage;
 
-import jiekie.event.PlayerEvent;
+import jiekie.tradewithvillage.event.PlayerEvent;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class NoTradeWithVillagerPlugin extends JavaPlugin {
